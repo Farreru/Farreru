@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://forum.multitheftauto.com/uploads/monthly_2021_10/wnhJXkg9FM3P.gif.5afbaa580ba9ca88f623fd198f1ce427.gif" alt="banner"/> </p>
+
 <h1 align="center">Hi 👋, I'm Muhammad Adit Farrel</h1>
 <h3 align="center">A passionate fullstack web developer from Indonesia</h3>
 
