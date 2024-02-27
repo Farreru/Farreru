@@ -1,8 +1,7 @@
+<p align="center"> <img src="https://forum.multitheftauto.com/uploads/monthly_2021_10/wnhJXkg9FM3P.gif.5afbaa580ba9ca88f623fd198f1ce427.gif" alt="banner"/> </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Adit Farrel</h1>
 <h3 align="center">A passionate fullstack web developer from Indonesia</h3>
-
-<p align="center"> <img src="https://forum.multitheftauto.com/uploads/monthly_2021_10/wnhJXkg9FM3P.gif.5afbaa580ba9ca88f623fd198f1ce427.gif" alt="banner"/> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farreru&label=Profile%20views&color=0e75b6&style=flat" alt="farreru" /> </p>
 
